@@ -1,6 +1,8 @@
 # HawritNote
 
 HawritNoteは、タブレット向けに開発した手書きメモアプリです。PWA（Progressive Web App）として動作するため、さまざまなデバイス上でインストールや利用が可能です。
+GithubPagesで公開中です。
+https://taxi13245.github.io/HawritNote/
 
 ## 特徴
 
